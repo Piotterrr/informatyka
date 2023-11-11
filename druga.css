@@ -1,0 +1,27 @@
+  h1{
+   color: blue;
+  }
+ body{
+   background-color: aqua;
+  }
+
+  p {
+    margin:50px
+}
+
+p.par {margin-left: 10px;}
+.abc {
+    border: 5px; border-style: double; border-color:yellow;
+}
+*{
+    font-family: serif;
+}
+
+
+p.nie {text-align:center; margin: 10px;
+
+  }
+
+  p.asd {text-align: right; margin-right: 10px;
+
+  }
